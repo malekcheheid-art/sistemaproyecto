@@ -1,0 +1,22 @@
+# Archivos ejecutables generados por g++
+*.exe
+*.o
+*.obj
+*.out
+
+# Binarios de depuracion
+*.dll
+*.pdb
+*.ilk
+
+# Editor de codigo
+.vscode/
+.vs/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Objetos de compilacion temporales
+*.tmp
+*.log
